@@ -1,0 +1,24 @@
+{
+  "name": "electronimageshrink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamSahaniNitkkr/electronimageshrink.git"
+  },
+  "author": "Shubham Sunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamSahaniNitkkr/electronimageshrink/issues"
+  },
+  "homepage": "https://github.com/ShubhamSahaniNitkkr/electronimageshrink#readme",
+  "devDependencies": {
+    "electron": "^17.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
